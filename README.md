@@ -26,6 +26,14 @@ A modern, interactive tic-tac-toe game built with React, featuring both single-p
 5. Use the time travel feature to review previous moves
 6. Toggle dark mode for comfortable gaming
 
+## Technologies Used
+
+- **React** - Frontend framework
+- **TypeScript** - Type safety
+- **Tailwind CSS** - Styling and animations
+- **Vite** - Build tool
+- **Lucide React** - Icons
+- 
 ## Installation & Setup
 
 ```bash
@@ -45,13 +53,7 @@ npm run dev
 
 **URL**: (http://localhost:3000/)
 
-## Technologies Used
 
-- **React** - Frontend framework
-- **TypeScript** - Type safety
-- **Tailwind CSS** - Styling and animations
-- **Vite** - Build tool
-- **Lucide React** - Icons
 
 
 
