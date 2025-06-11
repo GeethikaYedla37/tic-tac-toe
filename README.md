@@ -33,7 +33,7 @@ A modern, interactive tic-tac-toe game built with React, featuring both single-p
 - **Tailwind CSS** - Styling and animations
 - **Vite** - Build tool
 - **Lucide React** - Icons
-- 
+  
 ## Installation & Setup
 
 ```bash
